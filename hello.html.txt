@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>helloworld</title>
+<h1>helloworld</h1>
+Я учусь работать с Git
 </head>
 <body>
 Hello,world!!!
